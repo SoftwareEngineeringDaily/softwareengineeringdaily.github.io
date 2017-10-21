@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Software Engineering Daily
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
@@ -9,25 +9,29 @@ It's populated with example content to give you some ideas.
 ChatApp is a fictional chat application for sending messages and media to others.
 Teams and friend groups would use ChatApp to stay up to date if it existed.
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+> [Join our Slack channel](http://softwaredaily.herokuapp.com/) to communicate with other contributors.
 
-### Getting Started
+### What is this?
 
-Getting a message sent is quick and easy with ChatApp:
+Software Engineering Daily is a place to learn about software, dream up new ideas, and meet people to build projects with.
 
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
+We want you to find something that you will enjoy working on.
 
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+Here are some things you can do:
+* Start building. If you know how to build your feature idea, start coding it up.
+* Look at the [Product Ideas board](https://github.com/orgs/SoftwareEngineeringDaily/projects/1). This is where we throw out interesting feature ideas.
+* Design and wireframe. We would love to see a visual representation of your idea.
+* Fix bugs. We have bugs to smash in every repo.
 
-### Features
+> Feel free to send us a message at [help@softwareengineeringdaily.com](mailto:help@softwareengineeringdaily.com) if you need guidance.
 
-Explore more of ChatApp by reading about our features:
+### Projects
 
-#### Media
+Explore Software Engineering Daily by checking out our repos:
 
-Send images, videos and other media to people. Sources include your computer, phone and Facebook.
+#### [iOS](https://github.com/SoftwareEngineeringDaily/se-daily-iOS)
+
+The SE Daily app for iPhone.
 
 #### Contact Syncing
 
