@@ -2,16 +2,11 @@
 title: Software Engineering Daily
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
-
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+Software Engineering Daily is a place to learn about software, dream up new ideas, and meet people to build projects with.
 
 > [Join our Slack channel](http://softwaredaily.herokuapp.com/) to communicate with other contributors.
 
-### What is this?
+### Getting Started
 
 Software Engineering Daily is a place to learn about software, dream up new ideas, and meet people to build projects with.
 
@@ -29,14 +24,24 @@ Here are some things you can do:
 
 Explore Software Engineering Daily by checking out our repos:
 
+#### [Backend API](https://github.com/SoftwareEngineeringDaily/software-engineering-daily-api)
+
 #### [iOS](https://github.com/SoftwareEngineeringDaily/se-daily-iOS)
 
 The SE Daily app for iPhone.
 
-#### Contact Syncing
+#### [Android](https://github.com/SoftwareEngineeringDaily/SEDaily-Android)
 
-Sync your contact list with your phone and/or Facebook contacts. Never lose your contacts between devices again!
+The SE Daily app for Android.
 
-#### Devices
+#### [Web Frontend](https://github.com/SoftwareEngineeringDaily/sedaily-front-end)
 
-ChatApp is available everywhere. Find out how to set it up on your all your devices.
+The SE Daily web application written in VueJS.
+
+#### [Realtime Chat](https://github.com/SoftwareEngineeringDaily/se-daily-rt)
+
+A chat room for SE Daily written in Elixir.
+
+#### [Xamarin](https://github.com/SoftwareEngineeringDaily/se-daily-rt)
+
+The SE Daily app for Xamarin.
