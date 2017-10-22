@@ -4,6 +4,8 @@ category: iOS
 order: 1
 ---
 
+Email to join our [iOS beta tester list](mailto:iosbeta@softwareengineeringdaily.com)!
+
 We are using CocoaPods to manage dependencies.
 Clone the repo and then run:
 >$ sudo gem install cocoapods

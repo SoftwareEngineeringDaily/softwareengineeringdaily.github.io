@@ -2,7 +2,9 @@
 title: Software Engineering Daily
 ---
 
-Software Engineering Daily is a place to learn about software, dream up new ideas, and meet people to build projects with.
+Software Engineering Daily creates and organizes technical software content.
+
+This is a place to learn about software, build software, and meet people to build projects with.
 
 > [Join our Slack channel](http://softwaredaily.herokuapp.com/) to communicate with other contributors.
 
