@@ -4,12 +4,11 @@ category: Android
 order: 1
 ---
 
-Getting Started
-
 ### Cloning the Project
 
->$ git clone https://github.com/SoftwareEngineeringDaily/SEDaily-Android.git
-$ cd SEDaily-Android
+>*$ git clone https://github.com/SoftwareEngineeringDaily/SEDaily-Android.git*
+
+>*cd SEDaily-Android*
 
 ### Setting up Firebase
 
@@ -21,13 +20,4 @@ $ cd SEDaily-Android
 6. Compile the project with Gradle using
 >./gradelw build
 
-#### Built With
-
-* Android
-* Gradle
-* Firebase
-* Material UI Chip Input
-* ReactiveX
-* Leak Canary
-* OkHttp
-* Retrofit
+> To get used to the codebase, it might help to solve an [issue with the "good first issue" label](https://github.com/SoftwareEngineeringDaily/SEDaily-Android/labels/good%20first%20issue)

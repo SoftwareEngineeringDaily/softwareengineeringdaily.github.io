@@ -1,41 +1,46 @@
 ---
 title: Helpful Tips
 category: Backend
-order: 1
+order: 2
 ---
 
 If you are already running mongo locally make sure to stop it if you want to interface with the docker mongo database using something like [RoboMongo](https://robomongo.org/)
 
-*Helpful commands if using brew:*
+### Helpful commands: ###
+
+*If using brew*
+
 >brew services list
+
 >brew services stop mongodb
+
 >brew services start mongodb
 
-A few other helpful tips for docker are that you can see which containers are running and ssh into them:
+*A few other helpful tips for docker are that you can see which containers are running and ssh into them:*
 >docker container ls
 
-Since we are running a command when docker starts you need to create a new bash shell when you ssh:
+*Since we are running a command when docker starts you need to create a new bash shell when you ssh:*
 
 >sudo docker exec -i -t CONTAINER_ID_HERE  /bin/bash
 
-To start the server do this inside of the backend repo:
+*To start the server do this inside of the backend repo:*
 
 >docker-compose up
 
-To shut it down use:
+*To shut it down use:*
 
 >docker-compose down
 
-To run another configuration for docker use:
+*To run another configuration for docker use:*
 
 >docker-compose -f  docker.alt.yml  up
 
-Note for running the tests (?):
+### Note for running the tests: ###
 docker-compose.test.yml NEEDS to have docker-compose up before or redis wont be available
 Also note your database gets cleared on docker down:
 Your .env file will differ if running inside docker vs locally.  Change redis to be ‘localhost’ and mongo ip to also be localhost.
 
-** Sample Post You can use to populate your DB (remove id for multiple entries): **
+**Sample Post You can use to populate your DB (remove id for multiple entries)**
 
 >{
     "_id" : ObjectId("59dcec425aa447d81ed0f05f"),

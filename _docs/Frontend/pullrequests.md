@@ -1,12 +1,12 @@
 ---
 title: Pull Requests
-category: Android
-order: 1
+category: Front End
+order: 2
 ---
 
 ### Submitting a Pull Request
 
-When you submit a PR, please ask [Keith](https://github.com/TheHollidayInn) to review it.
+When you submit a PR, please ask [Jason](https://github.com/jasonify) and [Jeff](https://github.com/crablar) to review it.
 
 ### Deployment
 

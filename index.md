@@ -8,17 +8,23 @@ This is a place to learn about software, build software, and meet people to buil
 
 > [Join our Slack channel](http://softwaredaily.herokuapp.com/) to communicate with other contributors.
 
-### Getting Started
+### Production Apps
 
-Software Engineering Daily is a place to learn about software, dream up new ideas, and meet people to build projects with.
+Here are the live versions of our apps.
+* [Web](https://sedaily.herokuapp.com/#/)
+* [iOS app](https://itunes.apple.com/us/app/software-engineering-daily-podcast-app/id1253734426?mt=8)
+* [Android app](https://play.google.com/store/apps/details?id=com.koalatea.thehollidayinn.softwareengineeringdaily)
+
+### Getting Started
 
 We want you to find something that you will enjoy working on.
 
 Here are some things you can do:
-* Start building. If you know how to build your feature idea, start coding it up.
-* Look at the [Product Ideas board](https://github.com/orgs/SoftwareEngineeringDaily/projects/1). This is where we throw out interesting feature ideas.
-* Design and wireframe. We would love to see a visual representation of your idea.
-* Fix bugs. We have bugs to smash in every repo.
+* **Pick your technology from the options on the left and get started.** If you have any issues, please [contact us](mailto:help@softwareengineeringdaily.com).
+* **Fix a "good first issue".** In each repository, we have issues labeled with [good first issue](https://github.com/SoftwareEngineeringDaily/sedaily-front-end/labels/good%20first%20issue). These will help you understand our codebase while also helping us out!
+* **Look at the "brainstorming" section of [our roadmap](https://github.com/orgs/SoftwareEngineeringDaily/projects/1).** This is where we explore feature ideas.
+* **Design and wireframe, then [share your idea in Slack](http://softwaredaily.herokuapp.com/).** We would love to see a visual representation of your idea.
+* **Start building.** If you know how to build your feature idea, start coding it up.
 
 > Feel free to send us a message at [help@softwareengineeringdaily.com](mailto:help@softwareengineeringdaily.com) if you need guidance.
 
@@ -27,6 +33,8 @@ Here are some things you can do:
 Explore Software Engineering Daily by checking out our repos:
 
 #### [Backend API](https://github.com/SoftwareEngineeringDaily/software-engineering-daily-api)
+
+A backend Node.js app that serves the data to the web and mobile apps.
 
 #### [iOS](https://github.com/SoftwareEngineeringDaily/se-daily-iOS)
 
