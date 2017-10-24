@@ -1,6 +1,6 @@
 ---
 title: Getting Started
-category: Front End
+category: Frontend
 order: 1
 ---
 

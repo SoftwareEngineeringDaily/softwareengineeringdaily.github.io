@@ -1,6 +1,6 @@
 ---
 title: Pull Requests
-category: Front End
+category: Frontend
 order: 2
 ---
 
