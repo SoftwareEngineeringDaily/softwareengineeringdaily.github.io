@@ -10,5 +10,8 @@ When you submit a PR, please ask [Jason](https://github.com/jasonify) and [Jeff]
 
 ### Deployment
 
-The Android app has a 1 month release cycle. The next scheduled release is
-November 20, 2017.
+The web frontend is continuously deployed.
+
+Once a pull request is accepted, it is pulled into the master branch, which builds in a Heroku staging environment called [sedaily-frontend-staging](https://sedaily-frontend-staging.herokuapp.com/).
+
+After testing it manually, we promote it to our [Heroku production environment](https://sedaily.herokuapp.com/).
