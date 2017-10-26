@@ -16,7 +16,11 @@ _Docker makes this project easier to work with. But if you don’t know [how to 
 3. [Install and run a local mongo client](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/)
 4. _cp .env.example .env_
 
-In env, make sure RACCOON_REDIS_URL=localhost and MONGO_HOST_TEST=mongodb://localhost/express-mongoose-es6-rest-api-development-test
+In env file 
+1. set _RACCOON_REDIS_URL_=localhost. 
+2. set _MONGO_HOST_TEST=mongodb://localhost/express-mongoose-es6-rest-api-development-test_ and _NODE_ENV_=test if setting up _TEST_ environemnt.
+3. set _MONGO_HOST=mongodb://localhost/express-mongoose-es6-rest-api-development_ and _NODE_ENV=development_ if setting up _DEVELOPMENT_ environemnt.
+
 
 ### Get Running ###
 
