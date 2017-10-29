@@ -50,6 +50,13 @@
 				</ul>
 
 				<ul>
+					<li class="nav-item top-level {% if page.url == '/vision/' %}current{% endif %}">
+						{% assign vision = site.html_pages | where: 'url', '/vision/' | first %}
+						<a href="{{ site.baseurl }}/vision/">{{ vision.title }}</a>
+					</li>
+				</ul>
+
+				<ul>
 					<li class="nav-item top-level {% if page.url == '/roadmap/' %}current{% endif %}">
 						{% assign roadmap = site.html_pages | where: 'url', '/roadmap/' | first %}
 						<a href="{{ site.baseurl }}/roadmap/">{{ roadmap.title }}</a>

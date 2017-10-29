@@ -69,6 +69,13 @@ defaults:
       _comments:
         type: Marks the impact of this release
 
+    scope:
+      path: ""
+      type: "vision"
+    values:
+      _comments:
+        type: Defines project ambitions
+
 # -----------
 # CloudCannon
 
