@@ -20,7 +20,7 @@ We want you to find something that you will enjoy working on.
 Here are some things you can do:
 * **Pick your technology from the options on the left and get started.** If you have any issues, please [contact us](mailto:help@softwareengineeringdaily.com).
 * **Fix a "good first issue".** In each repository, we have issues labeled with [good first issue](https://github.com/SoftwareEngineeringDaily/sedaily-front-end/labels/good%20first%20issue). These will help you understand our codebase while also helping us out!
-* **Look at the "brainstorming" section of [our roadmap](https://github.com/orgs/SoftwareEngineeringDaily/projects/1).** This is where we explore feature ideas.
+* **Look at the "brainstorming" section of [our roadmap](roadmap).** This is where we explore feature ideas.
 * **Design and wireframe, then [share your idea in Slack](http://softwaredaily.herokuapp.com/).** We would love to see a visual representation of your idea.
 * **Start building.** If you know how to build your feature idea, start coding it up.
 
