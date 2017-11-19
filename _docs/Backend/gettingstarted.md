@@ -24,8 +24,9 @@ In env file
 
 ### Get Running ###
 
-1. [Download some Mongo data to use locally](https://www.dropbox.com/s/3fz8coiy9osrwhn/dump.zip?dl=0) and unzip
-Populate the database by running _mongorestore --db  express-mongoose-es6-rest-api-development dump/express-mongoose-es6-rest-api-development_
+1. [Download some Mongo data to use locally](https://www.dropbox.com/sh/5o1193iesmiul9v/AADKLQgkZBlQzjHk6mBBnp6Da?dl=0) and unzip
+
+Populate the database by running _mongorestore --db  sed-test sed-test-db_
 
 2. Install and run the node project.
 
