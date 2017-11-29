@@ -9,5 +9,5 @@ The newsfeed is a place to consume content related to Software Engineering Daily
 **Check out the [Github repo](https://github.com/SoftwareEngineeringDaily/sedaily-feed-service) for instructions on pulling and running the code**
 
 To get started as a contributor, check out an issue in one of the places below. The newsfeed system touches multiple areas of the app. Issues related to the newsfeed are tagged:
-- [Frontend issues](https://github.com/SoftwareEngineeringDaily/sedaily-front-end/issues?q=is%3Aissue+is%3Aopen+label%3A%22News+Feed%22)
+- [Frontend issues](https://github.com/SoftwareEngineeringDaily/sedaily-front-end/labels/newsfeed)
 - [Feed builder issues](https://github.com/SoftwareEngineeringDaily/sedaily-feed-service/issues)
