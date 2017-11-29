@@ -18,6 +18,6 @@ order: 1
 4. Set the package name to com.koalatea.thehollidayinn.softwareengineeringdaily
 5. Download google-services.json and place it in /app/
 6. Compile the project with Gradle using
->./gradelw build
+>./gradlew build
 
 > To get used to the codebase, it might help to solve an [issue with the "good first issue" label](https://github.com/SoftwareEngineeringDaily/SEDaily-Android/labels/good%20first%20issue)
