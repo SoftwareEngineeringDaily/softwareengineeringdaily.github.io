@@ -6,11 +6,5 @@ order: 3
 
 ### Goals for this Release
 
-* Real name entry upon registration
-* Support for comments
-* Ability to download episodes in advance of listening to them
-
-### Next Release
-
-The iOS app has a 1 month release cycle. The next scheduled release is
-November 20, 2017.
+* [Support for comments](https://github.com/SoftwareEngineeringDaily/se-daily-iOS/issues/53)
+* [Support for related links](https://github.com/SoftwareEngineeringDaily/se-daily-iOS/issues/54)
