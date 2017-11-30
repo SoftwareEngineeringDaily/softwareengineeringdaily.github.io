@@ -4,13 +4,7 @@ category: Android
 order: 3
 ---
 
-### Goals for this Release
+### Current major feature goals
 
-* Real name entry upon registration
-* Support for comments
-* Ability to download episodes in advance of listening to them
-
-### Next Release
-
-The Android app has a 1 month release cycle. The next scheduled release is
-November 20, 2017.
+* [Support for comments](https://github.com/SoftwareEngineeringDaily/SEDaily-Android/issues/80)
+* [Support for related links](https://github.com/SoftwareEngineeringDaily/SEDaily-Android/issues/81)
