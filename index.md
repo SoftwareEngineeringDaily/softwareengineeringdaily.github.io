@@ -9,7 +9,7 @@ Software Engineering Daily is a place to learn about software, build software, a
 ### Production Apps
 
 Here are the live versions of our apps.
-* [Web](https://sedaily.herokuapp.com/#/)
+* [Web](https://www.softwaredaily.com/#/)
 * [iOS app](https://itunes.apple.com/us/app/software-engineering-daily-podcast-app/id1253734426?mt=8)
 * [Android app](https://play.google.com/store/apps/details?id=com.koalatea.thehollidayinn.softwareengineeringdaily)
 
