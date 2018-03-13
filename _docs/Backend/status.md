@@ -13,4 +13,4 @@ order: 4
 ### Next Release
 
 The Android app has a 1 month release cycle. The next scheduled release is
-November 20, 2017.
+January 20, 2018.
