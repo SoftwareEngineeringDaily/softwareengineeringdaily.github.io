@@ -26,7 +26,7 @@ In env file
 
 1. [Download some Mongo data to use locally](https://www.dropbox.com/sh/5o1193iesmiul9v/AADKLQgkZBlQzjHk6mBBnp6Da?dl=0) and unzip
 
-Populate the database by running _mongorestore --db  sed-test sed-test-db_
+Populate the database by running _mongorestore -d sed-test sed-test-db_
 
 2. Install and run the node project.
 
@@ -35,6 +35,30 @@ Populate the database by running _mongorestore --db  sed-test sed-test-db_
 >npm start (or yarn start)
 
 _(Then check package.json for other builds)_
+
+#### In Docker ####
+
+When using the `docker-compose up` method for the backend, there a few differences when restoring the data.
+
+First, install curl and unzip into the mongodb docker container.
+
+```
+docker exec -it sedaily-mongo apt update
+
+docker exec -it sedaily-mongo apt install curl unzip
+```
+
+Then download the [database data](https://www.dropbox.com/sh/5o1193iesmiul9v/AADKLQgkZBlQzjHk6mBBnp6Da?dl=0) (you may need to download then rehost it somewhere "curl friendly") `docker exec -it sedaily-mongo curl <zip file url> -o /tmp/db.zip`.
+
+Finally, unzip the file and restore it into the database.
+
+```
+docker exec -it sedaily-mongo unzip /tmp/db.zip -d /tmp/db
+
+docker exec -it sedaily-mongo mongorestore -d express-mongoose-es6-rest-api-development /tmp/db
+```
+
+Then you can manipulate post data as usual.
 
 ### Test the Backend ###
 
