@@ -45,7 +45,7 @@ _(Then check package.json for other builds)_
 
 ### Getting Started with SE Daily using Docker
 
-1. cp .env.docker_example .env
-2. Run docker-compose up
+1. _cp .env.docker_example .env_
+2. Run _docker-compose up_
 
 > To get used to the codebase, it might help to solve an [issue with the "good first issue" label](https://github.com/SoftwareEngineeringDaily/software-engineering-daily-api/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
