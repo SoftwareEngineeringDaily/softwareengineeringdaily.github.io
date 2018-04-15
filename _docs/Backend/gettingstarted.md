@@ -44,6 +44,8 @@ _(Then check package.json for other builds)_
 >If you want to connect frontend to backend locally, [swap the comments here](https://github.com/SoftwareEngineeringDaily/sedaily-front-end/blob/master/src/store/actions/config.js).
 
 ### Getting Started with SE Daily using Docker
-Run docker-compose up
+
+1. cp .env.docker_example .env
+2. Run docker-compose up
 
 > To get used to the codebase, it might help to solve an [issue with the "good first issue" label](https://github.com/SoftwareEngineeringDaily/software-engineering-daily-api/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
