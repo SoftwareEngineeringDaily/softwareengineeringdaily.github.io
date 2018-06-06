@@ -23,5 +23,3 @@ The [VueJS Style Guide](https://vuejs.org/v2/guide/) is a standard we try to mai
 ### Testing
 >Pull requests must have some testing around them. Don’t be afraid to ask for help with writing tests!
 
-#### End-to-end Browser Testing
-We use [Nightwatch](http://nightwatchjs.org/gettingstarted) to write end-to-end browser tests. Nightwatch is powered by Selenium, a common testing tool.
