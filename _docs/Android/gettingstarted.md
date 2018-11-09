@@ -6,9 +6,9 @@ order: 1
 
 ### Cloning the Project
 
->*$ git clone https://github.com/SoftwareEngineeringDaily/SEDaily-Android.git*
+>*$ git clone https://github.com/SoftwareEngineeringDaily/software-engineering-daily-android.git*
 
->*cd SEDaily-Android*
+>*cd software-engineering-daily-android*
 
 ### Setting up Firebase
 
@@ -20,4 +20,4 @@ order: 1
 6. Compile the project with Gradle using
 >./gradlew build
 
-> To get used to the codebase, it might help to solve an [issue with the "good first issue" label](https://github.com/SoftwareEngineeringDaily/SEDaily-Android/labels/good%20first%20issue)
+> To get used to the codebase, it might help to solve an [issue with the "good first issue" label](https://github.com/SoftwareEngineeringDaily/software-engineering-daily-android/labels/good%20first%20issue)
