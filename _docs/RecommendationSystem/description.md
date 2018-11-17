@@ -58,6 +58,8 @@ Remove from the CandidateDocuments all the articles that the user has already re
 Sort the 200 CandidateDocuments by their vector similarity to the UserPreference vector
 Those 200 CandidateDocuments are the resulting news feed for the user.
 
+NOTE: 200 is a small sample and future versions will want to take a much larger set of CandidateDocuments
+
 <img src="/images/feed_feedAssembly.png" title="Feed Assembly" alt="Feed Assembly">
 
 
